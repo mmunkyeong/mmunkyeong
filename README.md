@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=mmunkyeong&fontSize=70&animation=twinkling)
 
-<p align="center> Soft Ware</p>
+<p align="center"> Soft Ware</p>
 
 <p align="center">🛠 Tech Stack 🛠</p>
 
