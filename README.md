@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FFDAB9&height=150&section=header&text=mmunkyeong&fontSize=70&animation=twinkling)
 
-<p align="center"> Soft Ware</p>
+<p align="center">KNU_Soft Ware</p>
 
 <p align="center">🛠 Tech Stack 🛠</p>
 
