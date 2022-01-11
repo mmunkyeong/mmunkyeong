@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFDAB9&height=150&section=header&text=mmunkyeong&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFDEAD&height=130&section=header&text=mmunkyeong&fontSize=50&animation=twinkling)
 
 <p align="center">KNU_Soft Ware</p>
 
