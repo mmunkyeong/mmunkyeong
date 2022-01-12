@@ -1,7 +1,7 @@
 
 <p>🖥 KNU Soft Ware</p>
 <p>🛠 Tech Stack <p>
-<p> _Techs that I've used at least once </p>
+<p> Techs that I've used at least once </p>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
