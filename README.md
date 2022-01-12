@@ -1,11 +1,8 @@
 
-<p align="center">KNU_Soft Ware</p>
-
-<p align="center">🛠 Tech Stack 🛠</p>
-
-<p align="center"> _Techs that I've used at least once </p>
-
-<p align="center">
+<p>🖥 KNU Soft Ware</p>
+<p>🛠 Tech Stack <p>
+<p> _Techs that I've used at least once </p>
+<p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -21,10 +18,9 @@
   
 </p>
 
-<br>
 
-<h3 align="center"> Me </h3>
-<p align="center">         
+<h3> Me </h3>
+<p>         
   <a href="https://www.instagram.com/mmunkyeong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mmunkyeong/"/></a> &nbsp
  
 </p>
