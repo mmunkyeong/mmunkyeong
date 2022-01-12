@@ -1,6 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFDEAD&height=130&section=header&text=mmunkyeong&fontSize=50&animation=twinkling)
-
 <p align="center">KNU_Soft Ware</p>
 
 <p align="center">🛠 Tech Stack 🛠</p>
@@ -19,16 +17,11 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Microsoft foundation Classes-FFA07A?style=flat-square&logo=apachetomcat&logoColor=white">
 
-  
-
+ 
   
 </p>
 
 <br>
-
-  
-<br>
-
 
 <h3 align="center"> Me </h3>
 <p align="center">         
