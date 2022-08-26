@@ -1,7 +1,13 @@
+<div align="center">
 
+<p>
 <h3>🖥 KNU Soft Ware</h3>
-<h4>🛠 Tech Stack </h4>
-<h4> Techs that I've used at least once </h4>
+</p>
+
+
+<h3>🛠 Tech Stack </h3>
+
+
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -13,16 +19,16 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp                                                                     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp                            
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Microsoft foundation Classes-FFA07A?style=flat-square&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
+</p>
 
- 
+
+ ### 💻 &nbsp;GitHub Analytics
   
-</p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mmunkyeong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/esoongan/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
-
-<h3> Me </h3>
-<p>         
-  <a href="https://www.instagram.com/mmunkyeong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mmunkyeong/"/></a> &nbsp
+### 🤝🏻 &nbsp;Contact 
+<a href="mailto:ansrud4379@gmail.com"><img src="https://img.shields.io/badge/-ansrud4379@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  
-</p>
-<br>
-
+</div>
