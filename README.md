@@ -1,4 +1,3 @@
-<div align="center">
 
 <p>
 <h3>🖥 KNU Soft Ware</h3>
@@ -28,7 +27,5 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mmunkyeong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/esoongan/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
-### 🤝🏻 &nbsp;Contact 
-<a href="mailto:ansrud4379@gmail.com"><img src="https://img.shields.io/badge/-ansrud4379@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- 
+
 </div>
