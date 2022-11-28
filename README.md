@@ -24,8 +24,7 @@
 
  ### 💻 &nbsp;GitHub Analytics
   
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mmunkyeong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/esoongan/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmunkyeong&show_icons=true&theme=radical)
 
 
 </div>
