@@ -1,13 +1,15 @@
 
+
+
 <p>
 <h3>🖥 KNU Soft Ware</h3>
 </p>
+<br>
 
 
 
 
 <h3>🛠 Tech Stack </h3>
-
 
 
 
@@ -22,7 +24,7 @@
   <img src="https://img.shields.io/badge/XAMPP-FFA07A?style=flat-square&logo=XAMPP&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
 </p>
-
+<br>
 
 
 
