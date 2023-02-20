@@ -2,15 +2,14 @@
 
 
 <p>
-<h3>🖥 KNU Soft Ware</h3>
+<h3> ✍ KNU Soft Ware</h3>
 </p>
 <br>
 
 
 
 
-<h3>🛠 Tech Stack </h3>
-
+<h3>🌳 Tech Stack 🌳 </h3>
 
 
 <p>
