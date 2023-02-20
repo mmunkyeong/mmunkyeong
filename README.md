@@ -7,11 +7,7 @@
 <br>
 
 
-
-
 <h3>🌳 Tech Stack 🌳 </h3>
-
-
 <p>
   <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
