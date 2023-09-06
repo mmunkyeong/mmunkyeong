@@ -34,9 +34,8 @@
 
 
  <h3><b> ⚙️ Github Stats </b></h3>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmunkyeong&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmunkyeong&layout=compact&theme=dracula)](https://github.com/metleeha)
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mmunkyeong&show_icons=true&locale=en&theme=radical" alt="mmunkyeong"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmunkyeong&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmunkyeong" /></p>
 
 
-</div>
