@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=ed7716&size=30&lines=Mun+Kyeong+&nbsp;)
 </div>
 
-<h3><b> 🌳 Tech Stack  </b></h3>
+
 <p>
   <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/PHP-FF9900?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a><br>     
+
+<br>
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">                                     
