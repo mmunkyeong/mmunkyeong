@@ -3,13 +3,10 @@
  <img src="https://capsule-render.vercel.app/api?type=venom&color=F9DFBB&height=200&section=header&text=MunKyeong%&fontSize=20" />
 
 <br>
- 
-### Introduction
-Hi, I am trying to become a nice developer 😎
 
 <br>
 
-### Skill :four_leaf_clover:
+### Skill 💁‍♀️
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black">
